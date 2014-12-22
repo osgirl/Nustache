@@ -1,3 +1,11 @@
+For of Nustache
+
+Changes include:
+- targets Mvc5 & .NET 4.5
+- fix so you can use "this." in a path
+
+========================================
+
 Nustache - Logic-less templates for .NET
 
 *NOTICE*:
